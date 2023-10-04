@@ -1,7 +1,9 @@
 # Challenge ONE | Lógica de Programación - Encriptador de texto
 
 <p align="center" >
-   ![image](https://github.com/roondev/Portafolio./assets/126434052/f5687242-c007-44cf-9904-c6c08745b8e9)
+
+![image](https://github.com/roondev/Portafolio./assets/126434052/0da1a8de-1f90-4649-9dd0-a6466f70dab5)
+
 
 </p>
 
