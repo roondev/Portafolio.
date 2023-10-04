@@ -18,6 +18,7 @@ PASO 1
 ![image](https://github.com/roondev/Portafolio./assets/126434052/809d33cf-8e3c-4ecc-81e8-66c6f6858c66)
 
 paso 2
+
 ![image](https://github.com/roondev/Portafolio./assets/126434052/4446ea8d-7259-4b05-8852-aeb4e6629a6f)
 
 paso 3
