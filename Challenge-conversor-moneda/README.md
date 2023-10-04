@@ -1,8 +1,8 @@
 #  Challenge ONE | Java | Back End | Conversor de Moneda
 
-<p align="center" >
-     <img width="500" heigth="300" src="https://user-images.githubusercontent.com/91544872/163816727-d48d3cdc-1cd8-445a-8b1c-90ed35431805.png">
-</p>
+
+![image](https://github.com/roondev/Portafolio./assets/126434052/b12fc631-e69c-48bd-8916-e52f3cda2a8d)
+
 
 ### ¡Bienvenido al proyecto con la solución al desafío Conversor de Moneda con Java! Pasos principales:
 
@@ -12,5 +12,24 @@
 
 ## Contenido de este repositório
 ---
+
+PASO 1
+
+![image](https://github.com/roondev/Portafolio./assets/126434052/809d33cf-8e3c-4ecc-81e8-66c6f6858c66)
+
+paso 2
+![image](https://github.com/roondev/Portafolio./assets/126434052/4446ea8d-7259-4b05-8852-aeb4e6629a6f)
+
+paso 3
+
+![image](https://github.com/roondev/Portafolio./assets/126434052/b12fc631-e69c-48bd-8916-e52f3cda2a8d)
+
+paso 4
+
+![image](https://github.com/roondev/Portafolio./assets/126434052/8d5c5412-069e-4ece-aad2-18029dff2e7e)
+
+
+
+
 
 
